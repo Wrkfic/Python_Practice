@@ -3,5 +3,5 @@ def words(str):
   for i in Words:
     print(i,"-",len(i))
 sen=input("Please enter your Sentence")
-Words(sen)
+words(sen)
 print()
