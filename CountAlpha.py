@@ -6,4 +6,4 @@ def lettercount(string):
         length+=len(i)
     return length
 sentence=input("please enter your sentence:")
-print(lettercount(sentence))
+print(lettercount(sentence))           #this will return the number of alphabates ans characters in your sentence after removing whitespace from it.
